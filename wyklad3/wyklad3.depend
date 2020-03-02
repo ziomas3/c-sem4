@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522835816 source:c:\users\zioma\desktop\4 sem\cpp2\wyklad3\main.cpp
+	<iostream>
+
+1523443101 source:c:\users\zioma\desktop\4 sem\cpp2\wyklad3\main2.cpp
+	<iostream>
+	<cassert>
+

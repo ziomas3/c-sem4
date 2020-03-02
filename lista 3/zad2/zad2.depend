@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522937665 source:c:\users\zioma\desktop\4 sem\cpp2\lista 3\zad2\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

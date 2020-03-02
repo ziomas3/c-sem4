@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520519046 source:/home/mbilka/cpp2/lista 2/zad6/main.cpp
+	<iostream>
+	<string.h>
+

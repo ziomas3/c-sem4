@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519914429 source:/home/mbilka/cpp2/zad6/main.cpp
+	<iostream>
+	<cmath>
+	<climits>
+

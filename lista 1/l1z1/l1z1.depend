@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519306820 source:/home/mbilka/cpp2/l1z1/main.cpp
+	<iostream>
+	<cstdlib>
+
